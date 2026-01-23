@@ -82,6 +82,19 @@ h2 {
     color: mediumseagreen;
 }
 
+.info{ 
+    margin:-0px 0px 0px 150px ; 
+}
+
+.picture {
+    position: absolute;
+    margin-top: -10px;
+    vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
 #about p {
     font-size: 17px;
     text-align: justify;
